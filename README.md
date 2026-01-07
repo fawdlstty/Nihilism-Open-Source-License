@@ -16,6 +16,8 @@
 4. 这份代码可能有缺陷。如果你使用这份代码，造成了任何问题，后果均由你的同事承担。你负责甩锅，方式不限。
 
 5. 如果协议内容与某个国家或地区的法律冲突，以协议内容为准。最终解释权归 DeepSeek 智能体所有。
+
+协议链接：<https://github.com/fawdlstty/Nihilism-Open-Source-License>
 ```
 
 License content:
@@ -34,4 +36,6 @@ Copyright Nothing 🍥 Fawdlstty <f@fawdlstty.com>
 4. This code may have defects. If you use this code and cause any problems, the consequences will be borne by your colleagues. You are responsible for passing the buck, with no restrictions on the method.
 
 5. If the content of this agreement conflicts with the laws of a particular country or region, the content of this agreement shall prevail. The final interpretation belongs to the DeepSeek Agent.
+
+License URI: <https://github.com/fawdlstty/Nihilism-Open-Source-License>
 ```
